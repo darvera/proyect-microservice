@@ -1,0 +1,9 @@
+[submodule "service-gateway"]
+	path = service-gateway
+	url = https://github.com/darvera/service-gateway.git
+[submodule "service-eureka"]
+	path = service-eureka
+	url = https://github.com/darvera/service-eureka.git
+[submodule "service-cloudserver"]
+	path = service-cloudserver
+	url = https://github.com/darvera/service-cloudserver.git
