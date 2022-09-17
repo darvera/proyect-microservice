@@ -7,3 +7,12 @@
 [submodule "service-cloudserver"]
 	path = service-cloudserver
 	url = https://github.com/darvera/service-cloudserver.git
+[submodule "serviceclient"]
+	path = serviceclient
+	url = https://github.com/darvera/serviceclient.git
+[submodule "serviceproduct"]
+	path = serviceproduct
+	url = https://github.com/darvera/serviceproduct
+[submodule "servicetransac"]
+	path = servicetransac
+	url = https://github.com/darvera/servicetransac.git
